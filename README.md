@@ -4,6 +4,8 @@ This program creates a reciept for items you have bought and totals the price ba
 
 [Software Demo Video]
 
+https://youtu.be/6hcGjlpYBVQ
+
 
 # Development Environment
 
